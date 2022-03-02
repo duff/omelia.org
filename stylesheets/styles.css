@@ -161,6 +161,8 @@ header ul a strong {
 
 section {
   width:800px;
+  display: flex;
+  justify-content: center;
   padding-bottom:50px;
 }
 
